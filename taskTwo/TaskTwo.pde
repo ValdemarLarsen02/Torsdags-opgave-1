@@ -1,4 +1,4 @@
-String teachername = "Tess Løvgreen";// Skriv den rette datatype og et passende variabelnavn foran denne værdi: String teacherName= "Tess Løvgreen"
+String teachername = "Tess Løvgreen";
 int antalDage = 365;
 String by = "København";
 boolean random = true;
