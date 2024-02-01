@@ -7,4 +7,4 @@ float tal = 22.12
 String tekst = "Hej, jeg heddder "+teachername;
 boolean random2 = false;
 float math2 = 2.2 + 33;
-String s = 'S';
+char s = 'S';
